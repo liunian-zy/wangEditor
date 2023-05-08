@@ -50,6 +50,8 @@ class Editor extends Field
     
     editor.config.uploadImgParams = {_token: '$token'}
     
+    editor.config.uploadVideoParams = {_token: '$token'}
+    
     Object.assign(editor.config, {$config})
     
     editor.config.onchange = function (html) {
