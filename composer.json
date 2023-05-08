@@ -1,5 +1,5 @@
 {
-    "name": "leo-yi/wang-editor",
+    "name": "liunian/wang-editor",
     "description": "wangEditor extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "editor"],
@@ -7,8 +7,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "leo",
-            "email": "uyihoo@gmail.com"
+            "name": "liunian",
+            "email": "a@liunian.io"
         }
     ],
     "require": {
